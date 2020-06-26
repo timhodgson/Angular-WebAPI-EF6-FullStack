@@ -1,0 +1,24 @@
+<h2 class="banner">HOME</h2>
+<div>
+  <div class="container">
+    <div class="row">
+      <div class="rounded-form-box col-sm-12 offset-sm-12">
+        <label class="centered">Customers</label>
+        <br>
+        <div *ngFor="let customer of customers">{{customer.firstName}} {{customer.lastName}} email:
+          {{customer.emailAddress}} Phone: {{customer.phoneNumber}}</div>
+      </div>
+    </div>
+    <br>
+    <div class="row float-right">
+      <div class="">
+        <div class="form-group col-md-12 form-buttons">
+          <button [disabled]="loading" (click)="onSubmit()" class="btn btn-primary">
+            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+            Add New Customer
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

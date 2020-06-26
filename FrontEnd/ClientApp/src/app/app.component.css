@@ -1,0 +1,30 @@
+@import 'main.css';
+
+.banner-image{
+  background: white;
+  margin: auto;
+  padding: 10px;
+  align-content: center;
+  border-top: thick solid #aaaaaa; 
+  border-top-width: 1px;
+  border-bottom: thick solid #aaaaaa; 
+  border-bottom-width: 1px;
+}
+
+footer {
+  position: fixed;
+  bottom:0;     
+  height: 50px;
+  width: 100%;
+  background-color: #aaaaaa;
+}
+p.buffer {
+  height: 75px;
+}
+p.copyright {
+    position: absolute;
+    width: 100%;
+    color: #555555;
+    text-align: center;
+    bottom:0;
+}

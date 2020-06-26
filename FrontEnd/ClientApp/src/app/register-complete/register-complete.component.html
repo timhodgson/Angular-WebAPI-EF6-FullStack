@@ -1,0 +1,25 @@
+<h2 class="banner">COMPLETE</h2>
+<app-breadcrumb [step]="2"></app-breadcrumb>
+<div>
+  <div class="container">
+    <div class="row">
+      <div class="rounded-form-box col-sm-12 offset-sm-12">
+        <label class="label-bold big-thank-you">Thank you for registering!</label>
+        <br>
+        <br>
+        <label>You should receive a confirmation email momentarily containing additional details.</label>
+      </div>
+	</div>
+	<br>
+    <div class="row float-right">
+      <div class="">
+        <div class="form-group col-md-12 form-buttons">
+          <button [disabled]="loading" (click)="onContinue()" class="btn btn-primary">
+            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+            Continue
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

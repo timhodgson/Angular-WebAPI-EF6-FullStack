@@ -1,0 +1,29 @@
+<div class="container">
+	<div class="col-md-1"></div>
+	<div class="col-md-12">
+		<div class="row centered">
+			<div class="col-md-2 col-sm-4 col-xs-4">
+				<button [ngClass]="{ 'bc-active': step >=1 , 'bc-inactive': step === 0 }">1</button>
+        <br>
+				<label class="bc-label">REGISTER</label>
+			</div>
+			<div class="col-md-3 hidden-sm d-none d-md-block">
+				<hr [ngClass]="{ 'hr-active': step >=1 , 'hr-inactive': step === 0 }">
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-4">
+				<button [ngClass]="{ 'bc-active': step >=1 , 'bc-inactive': step === 0 }">2</button>
+        <br>
+				<label class="bc-label">SUBMIT&nbsp;INFO</label>
+			</div>
+			<div class="col-md-3 hidden-sm d-none d-md-block">
+				<hr [ngClass]="{ 'hr-active': step >=2 , 'hr-inactive': step < 2 }">
+			</div>
+			<div class="col-md-2 col-sm-4 col-xs-4">
+				<button [ngClass]="{ 'bc-active': step >=2 , 'bc-inactive': step < 2 }">3</button>
+        <br>
+				<label class="bc-label">COMPLETE</label>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-1"></div>
+</div>

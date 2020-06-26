@@ -1,0 +1,24 @@
+C:\Users\Tim Hodgson\Source\Repos\Aegis-Coding-Exercise\DataModel\bin\Debug\DataModel.dll
+C:\Users\Tim Hodgson\Source\Repos\Aegis-Coding-Exercise\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Tim Hodgson\Source\Repos\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Tim Hodgson\Source\Repos\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.dll
+C:\Users\Tim Hodgson\Source\Repos\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Tim Hodgson\Source\Repos\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\dev\Aegis-Coding-Exercise\Aegis-Coding-Exercise\DataModel\bin\Debug\DataModel.dll
+C:\dev\Aegis-Coding-Exercise\Aegis-Coding-Exercise\DataModel\bin\Debug\DataModel.pdb
+C:\dev\Aegis-Coding-Exercise\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\dev\Aegis-Coding-Exercise\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\dev\Aegis-Coding-Exercise\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.dll
+C:\dev\Aegis-Coding-Exercise\Aegis-Coding-Exercise\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\DataModel\bin\Debug\DataModel.dll
+C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\DataModel\obj\Debug\DataModel.dll
+C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\bin\Debug\DataModel.dll
+C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.dll
+C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.pdb

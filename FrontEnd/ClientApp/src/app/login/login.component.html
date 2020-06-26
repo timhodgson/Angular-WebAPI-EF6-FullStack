@@ -1,0 +1,29 @@
+<h2 class="banner">LOGIN</h2>
+<div>
+    <div class="container">
+        <div class="row">
+            <div class="rounded-form-box col-sm-12 offset-sm-12">
+              <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+                  <div class="form-group">
+                      <label>Please enter the case sensitive password from your official invitation.</label>
+                      <br>
+                      <label for="password" class="label-bold">Password:</label>
+                      <input type="password" formControlName="password" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.password.errors }" />
+                      <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+                          <div *ngIf="f.password.errors.required">Password is required</div>
+                      </div>
+                  </div>
+                  <div class="float-right">
+                    <div class="form-group col-md-12 form-buttons">
+                        <button [disabled]="loading" class="btn btn-primary">
+                            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                            Login
+                        </button>
+                    </div>
+                  </div>
+              </form>            
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,54 @@
+
+.btn-primary {
+  background: #1b5875;
+  border-color: #1b5875;
+  padding: 6px 20px;
+}
+h2.banner {
+  background-color: #2988b5;
+  font-weight: normal;
+  font-size: 16pt;
+  color: white;
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 30px;
+  padding: 12px;
+}
+.rounded-form-box {
+  margin: 0px;
+  padding: 15px;
+  border-radius: 10px;
+  background: white;
+  border: 1px solid #2988b5;
+}
+.a { 
+  cursor: pointer; 
+}
+.label {
+  color: #555555;
+}
+.label-bold {
+  color: #555555;
+  margin-bottom: 0px; 
+  font-weight: bold;
+}
+.invalid-label {
+  margin-bottom: 0px; 
+  font-weight: bold;
+  color: #a93a44;
+}
+.container {
+  padding: 2px;
+  width: 60%;
+}
+.form-buttons {
+  padding-right: 0px;
+  padding-left: 6px;
+}
+.is-invalid {
+  background: #ffe8ea;
+}
+input.checkboxForm {
+  text-align: left;
+  padding: 5 5 5 5;
+}

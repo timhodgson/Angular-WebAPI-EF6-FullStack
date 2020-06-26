@@ -1,0 +1,48 @@
+@import '../main.css';
+
+.centered {
+  text-align: center;
+}
+.bc-active{
+  font-size: 9pt;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 7px;
+  padding-left: 7px;
+  background: #1B5875;
+  border: 0px;
+  color: #ffffff;
+  border-radius: 2px;
+  text-align: center;
+}
+.bc-inactive{
+  font-size: 9pt;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 7px;
+  padding-left: 7px;
+  background: white;
+  color: #555555;
+  border: 0px;
+  border-radius: 2px;
+  text-align: center;
+}
+.bc-label {
+  font-size: 8pt;
+  text-align: center;
+  color: #1B5875;
+}
+
+.hr-active {
+height: 3px;
+width: 100%;
+background: #1B5875;
+border: none;
+}
+
+.hr-inactive {
+height: 3px;
+width: 100%;
+background: #ffffff;
+border: none;
+}
