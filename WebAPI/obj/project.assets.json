@@ -13751,23 +13751,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tim Hodgson\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\timho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tim Hodgson\\Source\\Repos\\Angular-WebAPI-EF6-FullStack\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\timho\\source\\repos\\timhodgson\\Angular-WebAPI-EF6-FullStack\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Tim Hodgson\\Source\\Repos\\Angular-WebAPI-EF6-FullStack\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\Tim Hodgson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tim Hodgson\\Source\\Repos\\Angular-WebAPI-EF6-FullStack\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\timho\\source\\repos\\timhodgson\\Angular-WebAPI-EF6-FullStack\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\timho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\timho\\source\\repos\\timhodgson\\Angular-WebAPI-EF6-FullStack\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Tim Hodgson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\timho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13775,16 +13771,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Tim Hodgson\\Source\\Repos\\Angular-WebAPI-EF6-FullStack\\DataAcessLayer\\DataAcessLayer.csproj": {
-              "projectPath": "C:\\Users\\Tim Hodgson\\Source\\Repos\\Angular-WebAPI-EF6-FullStack\\DataAcessLayer\\DataAcessLayer.csproj"
+            "C:\\Users\\timho\\source\\repos\\timhodgson\\Angular-WebAPI-EF6-FullStack\\DataAcessLayer\\DataAcessLayer.csproj": {
+              "projectPath": "C:\\Users\\timho\\source\\repos\\timhodgson\\Angular-WebAPI-EF6-FullStack\\DataAcessLayer\\DataAcessLayer.csproj"
             },
-            "C:\\Users\\Tim Hodgson\\Source\\Repos\\Angular-WebAPI-EF6-FullStack\\DataModel\\DataModel.csproj": {
-              "projectPath": "C:\\Users\\Tim Hodgson\\Source\\Repos\\Angular-WebAPI-EF6-FullStack\\DataModel\\DataModel.csproj"
+            "C:\\Users\\timho\\source\\repos\\timhodgson\\Angular-WebAPI-EF6-FullStack\\DataModel\\DataModel.csproj": {
+              "projectPath": "C:\\Users\\timho\\source\\repos\\timhodgson\\Angular-WebAPI-EF6-FullStack\\DataModel\\DataModel.csproj"
             }
           }
         }
@@ -13797,6 +13794,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Cors": {
             "target": "Package",
@@ -13813,12 +13811,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -13827,7 +13819,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

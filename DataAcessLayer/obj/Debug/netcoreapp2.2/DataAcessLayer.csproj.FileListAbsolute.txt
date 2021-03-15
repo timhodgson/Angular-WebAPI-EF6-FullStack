@@ -28,3 +28,18 @@ C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataAcessLayer\ob
 C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.dll
 C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.pdb
 C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.genruntimeconfig.cache
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\bin\Debug\netcoreapp2.2\DataAcessLayer.deps.json
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\bin\Debug\netcoreapp2.2\DataAcessLayer.runtimeconfig.json
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\bin\Debug\netcoreapp2.2\DataAcessLayer.runtimeconfig.dev.json
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\bin\Debug\netcoreapp2.2\DataAcessLayer.dll
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\bin\Debug\netcoreapp2.2\DataAcessLayer.pdb
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\bin\Debug\netcoreapp2.2\DataModel.dll
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\bin\Debug\netcoreapp2.2\DataModel.pdb
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.csprojAssemblyReference.cache
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.AssemblyInfo.cs
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.csproj.CopyComplete
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.dll
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.pdb
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataAcessLayer\obj\Debug\netcoreapp2.2\DataAcessLayer.genruntimeconfig.cache

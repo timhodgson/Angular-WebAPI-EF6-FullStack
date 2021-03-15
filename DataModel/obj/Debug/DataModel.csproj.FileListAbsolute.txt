@@ -22,3 +22,9 @@ C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Deb
 C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
 C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.dll
 C:\Users\Tim Hodgson\Source\Repos\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.pdb
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataModel\bin\Debug\DataModel.dll
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataModel\bin\Debug\DataModel.pdb
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.dll
+C:\Users\timho\Source\Repos\timhodgson\Angular-WebAPI-EF6-FullStack\DataModel\obj\Debug\DataModel.pdb
