@@ -1,3 +1,0 @@
-C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
-C:\Users\Tim Hodgson\Source\Repos\MVC-WebAPI-EF6-Full-Stack\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
